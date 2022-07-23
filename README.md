@@ -29,6 +29,9 @@ Here i have done CFD Simulation of Airfoil using Ansys ( commercial cfd software
 <img src="Images/DRAG PLOT COMPARISON.png">
 <img src="Images/Screenshot 2022-07-23 153054.png">
 <img src="Images/gnvr half circle inflation.jpg">
+<img src="Images/40.jpg">
+<img src="Images/41.jpg">
+<img src="Images/42.jpg">
 
 ##- Preprocessing - Simulation - Postprocessing 👨🏻‍💻 
 
