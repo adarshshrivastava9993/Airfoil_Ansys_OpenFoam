@@ -40,12 +40,15 @@ Here i have done CFD Simulation of Airfoil using Ansys ( commercial cfd software
 - **Fusion - It's a good CAD software where we can do stadanrd CAD modeling**
 
 - ** https://grabcad.com/adarsh.shrivastava-4 **
+- 
+## MACHINE LEARNING
+** I have also used different machine learning tools to do the OPTIMIZATION of tools. 
+** There are various porcess Automation technique By which I can reduce working time during performing the large number of 
+** simulation🗃
 
-## Dependencies 🗃
-
-- [Bootstrap](https://getbootstrap.com/) - **Frontend CSS3 Framework**
-- [Node.js](https://nodejs.org/en/) - **Backend Framework**
-- [Express.js](https://expressjs.com/) - **Server Side Node.js Framework**
+- [PYTHON]([(https://www.python.org/)]) - ** **
+- [NUMPY](https://numpy.org/) - **NUMPY**
+- [PANDAS]((https://pandas.pydata.org/)) - **Server Side Node.js Framework**
 
 ## Run Locally 💻
 
