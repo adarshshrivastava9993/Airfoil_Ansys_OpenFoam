@@ -26,16 +26,16 @@ Here i have done CFD Simulation of Airfoil using Ansys ( commercial cfd software
 - Solve 450 💪 DSA quality question and get ready for placement 👨🏻‍💻 
 - Clean UI ⚡
 
-## What is 450 DSA Cracker? 🤔
+## What is CFD ? 🤔
 
-#### 450 DSA Cracker is a web app which basically consists of 450 important questions of DSA given by Love Babbar which is helpful for placement purpose also.
-#### The front end is made with HTML5, CSS3, Bootstrap4 and Javascript while for maintaining successful routes between different pages I have used express handlebars in it.
+#### CDF - Computational fluid dynamics
+#### Computational fluid dynamics (CFD) is a science that uses data structures to solve issues of fluid flow -- like velocity, density, and chemical compositions. This technology is used in areas like cavitation prevention, aerospace engineering, HVAC engineering, electronics manufacturing, and way more.
 
 
-## How it works? 🤔
-- **Open the website [https://dsacracker.herokuapp.com/](https://dsacracker.herokuapp.com/)**
-- **Home page will be opened which consists various topics of DSA in beautiful grid format, user just needs to click any one card of DSA topic and a list of set of important DSA questiones will be opened.**
-- **User just needs to hover on question present in list and upon clicking it, user would be sent to respective site where that DSA question is present.**
+## Here i have shown my project of CFD which i have done during B.Tech. . In These project i have used Ansys, OpenFoam, Fusion , Solidworks 🤔
+- **Ansys - It's a very nice simulation software here we can perform all the steps starting from preprocessing to the end of postprocessing**
+- **OpenFoam - It's a OpenSource CFD software where we can do simulation without any contraints.**
+- **Fusion - It's a good CAD **
 
 ## Dependencies 🗃
 
