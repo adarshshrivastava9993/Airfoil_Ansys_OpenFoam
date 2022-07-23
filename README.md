@@ -16,9 +16,12 @@ Here i have done CFD Simulation of Airfoil using Ansys ( commercial cfd software
 [![OPEN-PR](https://img.shields.io/badge/Open%20For-PR-orange?style=for-the-badge&logo=github)](https://github.com/ROHAN842/450DSACracker)
 
 ## Overview 👀
-<img src="images/Screenshot 450 DSA.jpg">
-<img src="images/Screenshot 450 DSA1.jpg">
-<img src="images/Screenshot 450 DSA2.jpg">
+<img src="images/35.jpg">
+<img src="images/36.jpg">
+<img src="images/37.jpg">
+<img src="images/Drag PLOT COMPARISON.png">
+<img src="images/Screenshot 2022-07-23 153054.png">
+<img src="images/gnvr half circle inflation.png">
 
 - Solve 450 💪 DSA quality question and get ready for placement 👨🏻‍💻 
 - Clean UI ⚡
