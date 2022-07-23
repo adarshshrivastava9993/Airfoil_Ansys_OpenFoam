@@ -4,12 +4,13 @@ Here i have done CFD Simulation of Airfoil using Ansys ( commercial cfd software
 # [450 DSA Cracker]() ⭐
 
 ![Python](https://img.shields.io/badge/Powered%20By-Python-F7DF1E?style=for-the-badge&logo=&logoColor)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=&logoColor=white)&nbsp;<br/>
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)&nbsp;
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)&nbsp;
+![Numpy](https://img.shields.io/badge/Numpy-E34F26?style=for-the-badge&logo=&logoColor=white)&nbsp;
+![Scipy](https://img.shields.io/badge/Scipy-239120?&style=for-the-badge&logo=&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/Pandas-563D7C?style=for-the-badge&logo=&logoColor=white)&nbsp;<br/>
+![ScikitLearn](https://img.shields.io/badge/ScikitLearn-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![TensorFlow](https://img.shields.io/badge/TensorFlow-404D59?style=for-the-badge)&nbsp;
+![Ansys](https://img.shields.io/badge/Ansys-430098?style=for-the-badge&logo=heroku&logoColor=white)&nbsp;
+![Jupyter](https://img.shields.io/badge/Jupyter-563D7C?style=for-the-badge&logo=&logoColor=white)&nbsp;<br/>
 
 
 [![Website Badge](https://img.shields.io/badge/Visit-Now-green?style=for-the-badge&logo=vercel)](https://dsacracker.herokuapp.com/)
