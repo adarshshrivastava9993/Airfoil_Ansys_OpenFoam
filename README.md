@@ -1,7 +1,7 @@
 # CFD_Project
 Here i have done CFD Simulation of Airfoil using Ansys ( commercial cfd software ) and OpenFoam (opensource software). 
 
-# [450 DSA Cracker]() ⭐
+# [AirShip_Shape_Optimization]() ⭐
 
 ![Python](https://img.shields.io/badge/Powered%20By-Python-F7DF1E?style=for-the-badge&logo=&logoColor)&nbsp;
 ![Numpy](https://img.shields.io/badge/Numpy-E34F26?style=for-the-badge&logo=&logoColor=white)&nbsp;
@@ -13,7 +13,7 @@ Here i have done CFD Simulation of Airfoil using Ansys ( commercial cfd software
 ![Jupyter](https://img.shields.io/badge/Jupyter-563D7C?style=for-the-badge&logo=&logoColor=white)&nbsp;<br/>
 
 
-[![OPEN-PR](https://img.shields.io/badge/Open%20For-PR-orange?style=for-the-badge&logo=github)](https://github.com/ROHAN842/450DSACracker)
+[![OPEN-PR](https://img.shields.io/badge/Open%20For-PR-orange?style=for-the-badge&logo=github)](https://github.com/adarshrivastava9993/Airfoil_Ansys_OpenFoam)
 ## What is CFD ? 🤔
 
 #### CDF - Computational fluid dynamics
@@ -33,36 +33,19 @@ Here i have done CFD Simulation of Airfoil using Ansys ( commercial cfd software
 ##- Preprocessing - Simulation - Postprocessing 👨🏻‍💻 
 
 
-
 ## Here i have shown my project of CFD which i have done during B.Tech. . In These project i have used Ansys, OpenFoam, Fusion , Solidworks 🤔
 - **Ansys - It's a very nice simulation software here we can perform all the steps starting from preprocessing to the end of postprocessing**
 - **OpenFoam - It's a OpenSource CFD software where we can do simulation without any contraints.**
 - **Fusion - It's a good CAD software where we can do stadanrd CAD modeling**
 
 - ** https://grabcad.com/adarsh.shrivastava-4 **
-- 
+
 ## MACHINE LEARNING
 ** I have also used different machine learning tools to do the OPTIMIZATION of tools. 
 ** There are various porcess Automation technique By which I can reduce working time during performing the large number of 
 ** simulation🗃
 
 - [PYTHON]([(https://www.python.org/)]) - **PYTHON IS A VERY EASY PROGRAMMING LANGUAGE **
-- [NUMPY](https://numpy.org/) - **NUMPY**
-- [PANDAS]((https://pandas.pydata.org/)) - **Server Side Node.js Framework**
+- [NUMPY](https://numpy.org/) - **A Python library used for easy mathematical calculations**
+- [PANDAS]((https://pandas.pydata.org/)) - **A Python library used for data cleaning**
 
-## Run Locally 💻
-
-```
-> Clone the repo
-    >> For Windows: Git Bash
-    >> For Linux: Terminal
-    >> git clone https://github.com/ROHAN842/450DSACracker.git
-    >> cd MainFolder/DirectoryName
-> Install all dependencies
-    >> npm i
-> Spin the server on port 3000
-    >> cd MainFolder/DirectoryName
-    >> nodemon or node app.js
-> Visit the website on http://localhost:3000/
-    
-```
