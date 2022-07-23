@@ -46,7 +46,7 @@ Here i have done CFD Simulation of Airfoil using Ansys ( commercial cfd software
 ** There are various porcess Automation technique By which I can reduce working time during performing the large number of 
 ** simulation🗃
 
-- [PYTHON]([(https://www.python.org/)]) - ** **
+- [PYTHON]([(https://www.python.org/)]) - **PYTHON IS A VERY EASY PROGRAMMING LANGUAGE **
 - [NUMPY](https://numpy.org/) - **NUMPY**
 - [PANDAS]((https://pandas.pydata.org/)) - **Server Side Node.js Framework**
 
