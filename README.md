@@ -7,13 +7,12 @@ Here i have done CFD Simulation of Airfoil using Ansys ( commercial cfd software
 ![Numpy](https://img.shields.io/badge/Numpy-E34F26?style=for-the-badge&logo=&logoColor=white)&nbsp;
 ![Scipy](https://img.shields.io/badge/Scipy-239120?&style=for-the-badge&logo=&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/Pandas-563D7C?style=for-the-badge&logo=&logoColor=white)&nbsp;<br/>
-![ScikitLearn](https://img.shields.io/badge/ScikitLearn-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![ScikitLearn](https://img.shields.io/badge/ScikitLearn-43853D?style=for-the-badge&logo=&logoColor=white)&nbsp;
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-404D59?style=for-the-badge)&nbsp;
-![Ansys](https://img.shields.io/badge/Ansys-430098?style=for-the-badge&logo=heroku&logoColor=white)&nbsp;
+![Ansys](https://img.shields.io/badge/Ansys-430098?style=for-the-badge&logo=&logoColor=white)&nbsp;
 ![Jupyter](https://img.shields.io/badge/Jupyter-563D7C?style=for-the-badge&logo=&logoColor=white)&nbsp;<br/>
 
 
-[![Website Badge](https://img.shields.io/badge/Visit-Now-green?style=for-the-badge&logo=vercel)](https://dsacracker.herokuapp.com/)
 [![OPEN-PR](https://img.shields.io/badge/Open%20For-PR-orange?style=for-the-badge&logo=github)](https://github.com/ROHAN842/450DSACracker)
 ## What is CFD ? 🤔
 
