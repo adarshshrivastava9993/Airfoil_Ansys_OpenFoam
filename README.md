@@ -14,21 +14,24 @@ Here i have done CFD Simulation of Airfoil using Ansys ( commercial cfd software
 
 [![Website Badge](https://img.shields.io/badge/Visit-Now-green?style=for-the-badge&logo=vercel)](https://dsacracker.herokuapp.com/)
 [![OPEN-PR](https://img.shields.io/badge/Open%20For-PR-orange?style=for-the-badge&logo=github)](https://github.com/ROHAN842/450DSACracker)
-
-## Overview 👀
-<img src="Images/35.jpg">
-<img src="Images/36.jpg">
-<img src="Images/37.jpg">
-<img src="Images/Drag PLOT COMPARISON.png">
-<img src="Images/Screenshot 2022-07-23 153054.png">
-<img src="Images/gnvr half circle inflation.png">
-
-- Preprocessing - Simulation - Postprocessing 👨🏻‍💻 
-
 ## What is CFD ? 🤔
 
 #### CDF - Computational fluid dynamics
 #### Computational fluid dynamics (CFD) is a science that uses data structures to solve issues of fluid flow -- like velocity, density, and chemical compositions. This technology is used in areas like cavitation prevention, aerospace engineering, HVAC engineering, electronics manufacturing, and way more.
+
+## Overview 👀
+<img src="Images/35.jpg">
+** Airship Pressure Contour
+<img src="Images/36.jpg">
+** Airship Velocity Contour
+<img src="Images/38.jpg">
+** Airship Turbulence Contour
+<img src="Images/DRAG PLOT COMPARISON.png">
+<img src="Images/Screenshot 2022-07-23 153054.png">
+<img src="Images/gnvr half circle inflation.jpg">
+
+##- Preprocessing - Simulation - Postprocessing 👨🏻‍💻 
+
 
 
 ## Here i have shown my project of CFD which i have done during B.Tech. . In These project i have used Ansys, OpenFoam, Fusion , Solidworks 🤔
