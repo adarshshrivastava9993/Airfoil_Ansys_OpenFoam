@@ -13,7 +13,7 @@ Here i have done CFD Simulation of Airfoil using Ansys ( commercial cfd software
 ![Jupyter](https://img.shields.io/badge/Jupyter-563D7C?style=for-the-badge&logo=&logoColor=white)&nbsp;<br/>
 
 
-[![OPEN-PR](https://img.shields.io/badge/Open%20For-PR-orange?style=for-the-badge&logo=github)](https://github.com/adarshrivastava9993/Airfoil_Ansys_OpenFoam)
+[![OPEN-PR](https://img.shields.io/badge/Open%20For-PR-orange?style=for-the-badge&logo=github)](https://github.com/adarshshrivastava9993/Airfoil_Ansys_OpenFoam)
 ## What is CFD ? 🤔
 
 #### CDF - Computational fluid dynamics
