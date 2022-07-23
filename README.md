@@ -1,9 +1,9 @@
 # CFD_Project
 Here i have done CFD Simulation of Airfoil using Ansys ( commercial cfd software ) and OpenFoam (opensource software). 
 
-# [450 DSA Cracker](https://dsacracker.herokuapp.com/) ⭐
+# [450 DSA Cracker]() ⭐
 
-![JavaScript](https://img.shields.io/badge/Powered%20By-JavaScript-F7DF1E?style=for-the-badge&logo=&logoColor)&nbsp;
+![Python](https://img.shields.io/badge/Powered%20By-Python-F7DF1E?style=for-the-badge&logo=&logoColor)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=&logoColor=white)&nbsp;<br/>
