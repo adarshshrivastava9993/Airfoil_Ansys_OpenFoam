@@ -32,6 +32,7 @@ Here i have done CFD Simulation of Airfoil using Ansys ( commercial cfd software
 <img src="Images/40.jpg">
 <img src="Images/41.jpg">
 <img src="Images/42.jpg">
+<img src="Images/43.jpg">
 
 ##- Preprocessing - Simulation - Postprocessing 👨🏻‍💻 
 
