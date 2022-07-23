@@ -29,14 +29,14 @@ Here i have done CFD Simulation of Airfoil using Ansys ( commercial cfd software
 <img src="Images/DRAG PLOT COMPARISON.png">
 <img src="Images/Screenshot 2022-07-23 153054.png">
 <img src="Images/gnvr half circle inflation.jpg">
-<img src="Images/40.jpg">
-<img src="Images/41.jpg">
-<img src="Images/42.jpg">
+<img src="Images/40.png">
+<img src="Images/41.png">
+<img src="Images/42.png">
 
 ##- Preprocessing - Simulation - Postprocessing 👨🏻‍💻 
 
 
-## Here i have shown my project of CFD which i have done during B.Tech. . In These project i have used Ansys, OpenFoam, Fusion , Solidworks 🤔
+## Here I have shown my project of CFD which i have done during B.Tech. . In These project i have used Ansys, OpenFoam, Fusion , Solidworks 🤔
 - **Ansys - It's a very nice simulation software here we can perform all the steps starting from preprocessing to the end of postprocessing**
 - **OpenFoam - It's a OpenSource CFD software where we can do simulation without any contraints.**
 - **Fusion - It's a good CAD software where we can do stadanrd CAD modeling**
