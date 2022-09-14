@@ -20,6 +20,7 @@ Here i have done CFD Simulation of Airfoil using Ansys ( commercial cfd software
 #### Computational fluid dynamics (CFD) is a science that uses data structures to solve issues of fluid flow -- like velocity, density, and chemical compositions. This technology is used in areas like cavitation prevention, aerospace engineering, HVAC engineering, electronics manufacturing, and way more.
 
 ## Overview 👀
+<img src = "Images/GettyImages-591546456.webp">
 <img src="Images/35.jpg">
 ** Airship Pressure Contour
 <img src="Images/36.jpg">
